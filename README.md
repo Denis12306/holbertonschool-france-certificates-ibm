@@ -2,7 +2,6 @@
 
 # 0. Trimester 1 - Certificate: Introduction to Open Source
 
-oss2 (1).jpg
 When Can You Start?
 
     You can begin this course at the very start of your program at Holberton.
@@ -29,7 +28,6 @@ Certificate and Learning
 
 # 1. Trimester 1 - Certificate: Agile Explorer - Powered by Agile at IBM
 
-teamwork.jpg
 When Can You Start?
 
     You can begin this course at the very start of your program at Holberton.
@@ -51,7 +49,6 @@ Certificate and Learning
 
 # 0. Trimester 2 - Certificate: SQL and relational databases
 
-learn-sql.jpg
 When Can You Start?
 
     You can take this course alongside the SQL/MySQL projects or after completing them.
@@ -75,7 +72,6 @@ Certificate and Learning
 
 # 1. Trimester 2 - Certificate: Project Management Fundamentals
 
-ChatGPT Image May 19, 2025, 09_53_45 AM.png
 When Can You Start?
 
     You can take this course whenever you want during the Trimester two.
